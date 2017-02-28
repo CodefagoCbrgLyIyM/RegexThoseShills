@@ -9,3 +9,8 @@
 3. Using the drop down with the initial value of "Guide" switch to "Comments"
 4. Copy and paste the contents of regex.txt into there.
 5. Refresh page and profit.
+
+
+##Future plans (maybe)
+1. Standalone filter with auto updating lists, maybe just fork 4chanx to do this.
+2. Create filters for threads.
