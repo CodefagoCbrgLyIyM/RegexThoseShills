@@ -1,0 +1,3 @@
+/I went through (everything|all of it) this (morning|afternoon). Unfortunately, the leaks (appear|seem) to be nothing (substantial|important)./ig
+/.+(lie).+(former).+(drumpf|trump|trumpf|drump).+/ig
+/.+(drumpf).+/ig
