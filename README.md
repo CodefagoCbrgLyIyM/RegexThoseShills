@@ -11,6 +11,7 @@
 5. Refresh page and profit.
 
 
-##Future plans (maybe)
+##Future plans
 1. Standalone filter with auto updating lists, maybe just fork 4chanx to do this.
 2. Create filters for threads.
+3. Add more as they are mae
