@@ -3,3 +3,4 @@
 /.*(drumpf).*/ig
 /(not).*(my).*(president)/ig
 /(shill).*(never).*(on).*(pol|medium|4chan|site)/ig
+/1.*(post).*(id)/ig
