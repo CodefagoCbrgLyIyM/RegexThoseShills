@@ -2,3 +2,4 @@
 /.+(lie).+(former).+(drumpf|trump|trumpf|drump).+/ig
 /.*(drumpf).*/ig
 /(not).*(my).*(president)/ig
+/(shill).*(never).*(on).*(pol|medium|4chan|site)/ig
