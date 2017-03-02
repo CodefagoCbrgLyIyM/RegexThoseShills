@@ -1,7 +1,8 @@
 /(1|one).*(criticism).*(trump|drumpf)/ig
-/(reddit).*(here)/ig
 /(a(y*)).*(lmao)/ig
 /.*(\/pol\/|pol|sexist|drumpf|trump|bigots).*(btfo|((blown|beat).*(fuck).*(out)))/ig
 /(fu(c*)boi)/ig
-/(lesbian|gay|fag|hillary|queer).*(here)/ig
+/(lesbian|gay|fag|hillary|queer|reddit).*(here)/ig
 /(blacked)/ig
+/(why).*(does).*(pol).*(hate)/ig
+/(madam).*(president)/ig
