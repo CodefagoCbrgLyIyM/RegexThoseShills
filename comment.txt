@@ -4,3 +4,4 @@
 /(not).*(my).*(president)/ig
 /(shill).*(never).*(on).*(pol|medium|4chan|site)/ig
 /1.*(post).*(id)/ig
+/.*(\/pol\/|sexist|drumpf|trump|bigots).*(btfo)/ig
