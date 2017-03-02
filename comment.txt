@@ -5,5 +5,7 @@
 /(shill).*(never).*(on).*(pol|medium|4chan|site)/ig
 /1.*(post).*(id)/ig
 /.*(\/pol\/|pol|sexist|drumpf|trump|bigots).*(btfo|((blown|beat).*(fuck).*(out)))/ig
-/.*(lesbian|gay|fag|hillary|queer|reddit).*(here)/ig
+/.*(lesbian|gay|fag|hillary|queer).*(here)/ig
 /(blacked)/ig
+/(why).*(does).*(pol).*(hate)/ig
+/(madam).*(president)/ig
