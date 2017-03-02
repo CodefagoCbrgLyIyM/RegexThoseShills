@@ -1,7 +1,9 @@
 /I went through (everything|all of it) this (morning|afternoon). Unfortunately, the leaks (appear|seem) to be nothing (substantial|important)./ig
 /.+(lie).+(former).+(drumpf|trump|trumpf|drump).+/ig
-/.*(drumpf).*/ig
+/.+(drumpf).+/ig
 /(not).*(my).*(president)/ig
 /(shill).*(never).*(on).*(pol|medium|4chan|site)/ig
 /1.*(post).*(id)/ig
-/.*(\/pol\/|sexist|drumpf|trump|bigots).*(btfo)/ig
+/.*(\/pol\/|pol|sexist|drumpf|trump|bigots).*(btfo|((blown|beat).*(fuck).*(out)))/ig
+/.*(lesbian|gay|fag|hillary|queer|reddit).*(here)/ig
+/(blacked)/ig
