@@ -1,3 +1,4 @@
 /(1|one).*(criticism|complaint|problem).*(trump|drumpf)/ig
 /(reddit).*(here)/ig
 /(a(y*)).*(lmao)/ig
+/.*(pol|sexist|drumpf|trump|bigots).*(btfo)/ig
