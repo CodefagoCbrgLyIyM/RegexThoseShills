@@ -1,1 +1,2 @@
 /(1|one).*(criticism|complaint|problem).*(trump|drumpf)/ig
+/(reddit).*(here)/ig
